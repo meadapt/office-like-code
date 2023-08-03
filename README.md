@@ -37,10 +37,10 @@ Para publicação de nova versão necessário atualizar manualmente o comando `d
 
 <pre>
 # Versão atual arquivo pyproject.toml
-deploy-mike = { cmd = "mike deploy --push --update-aliases <b style="color:red" >1.0</b> latest", help = "Publica documento utilizando Mkdocs e versionamento Mike." }
+deploy-mike = { cmd = "mike deploy --push --update-aliases <font color="red"><b>1.0</b></font> latest", help = "Publica documento utilizando Mkdocs e versionamento Mike." }
 
 # Nova Versão no arquivo pyproject.toml (cmd)
-deploy-mike = { cmd = "mike deploy --push --update-aliases <b style="color:red" >2.0</b> latest", help = "Publica documento utilizando Mkdocs e versionamento Mike." }
+deploy-mike = { cmd = "mike deploy --push --update-aliases <font color="red"><b>2.0</b></font> latest", help = "Publica documento utilizando Mkdocs e versionamento Mike." }
 </pre>
 
 [^1]: Confira também [esta issue](https://github.com/transparencia-mg/work-stefanini/issues/17) utilizado para documentar processo de versionamento.
