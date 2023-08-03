@@ -30,18 +30,19 @@ Comando `mkdocs serve` cria servidor local para visualização, em tempo real, d
 ## Publicações de novas versões do documento
 
 Versionamento desta documentação foi criada utilizando a biblioteca [mike](https://github.com/jimporter/mike), conforme orientações [material mkdocs](https://squidfunk.github.io/mkdocs-material/setup/setting-up-versioning/?h=version#versioning).
-[Exemplo de implementação](https://squidfunk.github.io/mkdocs-material-example-versioning/0.3/) e o [repositório de origem](https://github.com/squidfunk/mkdocs-material-example-versioning) também podem ser utilizados como referência.
-Actions para publicação da documentação `1.0`[^1] foi criado para facilitar o processo de deploy da documentação que está sendo constantemente atualizada.
+[Exemplo de implementação](https://squidfunk.github.io/mkdocs-material-example-versioning/0.3/) e o [repositório de origem](https://github.com/squidfunk/mkdocs-material-example-versioning) também podem ser utilizados como referência[^1].
+Actions para publicação da documentação `1.0`[^2] foi criado para facilitar o processo de deploy da documentação que está sendo constantemente atualizada.
 
 Para publicação de nova versão necessário atualizar manualmente o comando `deploy-mike` do arquivo `pyproject.toml`. Exemplo:
 
-```
+<pre>
 # Versão atual arquivo pyproject.toml
-deploy-mike = { cmd = "mike deploy --push --update-aliases 1.0 latest", help = "Publica documento utilizando Mkdocs e versionamento Mike." }
+deploy-mike = { cmd = "mike deploy --push --update-aliases <b>1.0</b> latest", help = "Publica documento utilizando Mkdocs e versionamento Mike." }
 
 # Nova Versão no arquivo pyproject.toml (cmd)
-deploy-mike = { cmd = "mike deploy --push --update-aliases 2.0 latest", help = "Publica documento utilizando Mkdocs e versionamento Mike." }
-```
-Confira também [esta issue](https://github.com/transparencia-mg/work-stefanini/issues/17) utilizado para documentar processo de versionamento.
+deploy-mike = { cmd = "mike deploy --push --update-aliases <b>2.0</b> latest", help = "Publica documento utilizando Mkdocs e versionamento Mike." }
+</pre>
 
-[^1]: Comando `mike set-default --push latest` foi executado localmente para garantir que url sempre direcione para a versão mais atual do documento.
+[^1]: Confira também [esta issue](https://github.com/transparencia-mg/work-stefanini/issues/17) utilizado para documentar processo de versionamento.
+
+[^2]: Comando `mike set-default --push latest` foi executado localmente para garantir que url sempre direcione para a versão mais atual do documento.
