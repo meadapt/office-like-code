@@ -6,7 +6,8 @@ repo_url: https://github.com/o-futuro-ja-comecou/office-like-code
 edit_uri: edit/main/docs/
 
 nav:
-  - index.md
+  - Home: index.md
+  - Introducao: introducao.md
 
 # Configuration
 theme:
