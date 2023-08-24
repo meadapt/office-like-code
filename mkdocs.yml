@@ -91,6 +91,24 @@ extra_javascript:
 extra: # Footer
   version:
     provider: mike
+extra:
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
+    feedback:
+      title: Esta página foi útil?
+      ratings:
+        - icon: material/thumb-up-outline
+          name: Esta página foi útil
+          data: 1
+          note: >-
+            Thanks for your feedback!
+        - icon: material/thumb-down-outline
+          name: Esta página precisa ser melhorada
+          data: 0
+          note: >-
+            Thanks for your feedback! Help us improve this page by
+            using our <a href="https://github.com/o-futuro-ja-comecou/office-like-code/issues/new/?title=[Feedback]+{title}+-+{url}" target="_blank" rel="noopener">Feedback Form</a>.
 
 plugins:
   - git-revision-date-localized:
