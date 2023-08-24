@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'docs/**'
+      - 'mkdocs.yml'
 
 jobs:
   publish_documentation_on_github_pages:
