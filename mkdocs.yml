@@ -94,7 +94,7 @@ extra: # Footer
 extra:
   analytics:
     provider: google
-    property: G-XXXXXXXXXX
+    property: G-V245S3JXDZ
     feedback:
       title: Esta página foi útil?
       ratings:
