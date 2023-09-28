@@ -27,6 +27,6 @@ Vamos começar essa transformação agora mesmo!
 
 ??? Info "Achou algo de errado?"
 
-    Sabendo o quanto seu tempo é precioso e esperando que este conteúdo realmente te auxilie, fizemos de tudo para garantir que ele não contenha erros. No entanto, não somos perfeitos, e eles podem ocorrer. Se você encontrar algum, ficaremos gratos se puder auxiliar entrando em contato através do formulário abaixo, abrindo um [Issue](https://github.com/o-futuro-ja-comecou/office-like-code/issues), ou até mesmo enviando correções via [Pull Request](https://github.com/o-futuro-ja-comecou/office-like-code/pulls). Fique a vontade para enviar sugestões e enriquecer este conteúdo.
+    Sabendo o quanto seu tempo é precioso e esperando que este conteúdo realmente te auxilie, fizemos de tudo para garantir que ele não contenha erros. No entanto, não somos perfeitos! Se você encontrar algum, ficaremos gratos se puder nos informar através do formulário abaixo, abrindo um [Issue](https://github.com/o-futuro-ja-comecou/office-like-code/issues), ou até mesmo um [Pull Request](https://github.com/o-futuro-ja-comecou/office-like-code/pulls).
 
-    
+    Obrigado!
