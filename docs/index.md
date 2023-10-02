@@ -13,13 +13,15 @@ Por outro lado, a abordagem DLC tem suas raízes na cultura e nas práticas de d
 Ela propõe tratar a documentação de um projeto como um produto em si, aplicando as melhores práticas do desenvolvimento de software para criar documentação de alta qualidade, de maneira colaborativa e iterativa.
 A abordagem Office Like Code pretente explorar essas ideias criando um processo de comunicação assíncrona flúida, precisa, atualizada e de fácil entendimento entre os membros de uma equipe, visando a redução de erros e retrabalhos.
 
-Para integrar todo o potencial dessas filosofias, é fundamental contar com as ferramentas certas. É aí que entram as soluções de versionamento de arquivos de texto com Git e sua integração com o GitHub.
-Ao optar por estas ferramentas é possível aproveitar o poder de uma comunidade colaborativa que se aprimora constantemente e fornece valioso auxílio para novos integrantes.
-O Git é um sistema de controle de versão distribuído, que combinado com a plataforma de hospedagem GitHub, favorece trabalho em equipe ao estimular um processo de comunicação eficiente e aonde o acompanhamento da evolução do trabalho e das decisões tomadas é facilmente realizado por todos os membros de uma equipe.
+Para integrar todo o potencial dessas filosofias, é fundamental contar com as ferramentas certas. É aí que entram as soluções de versionamento de arquivos de texto como Git e sua integração com o GitHub.
+Ao optar por estas ferramentas é possível aproveitar o poder de suas comunidades, que se aprimoram constantemente, e fornecem valioso auxílio para novos integrantes.
+O Git é um sistema de controle de versão distribuído, que combinado com a plataforma de hospedagem GitHub, favorece trabalho em equipe e estímulo a um processo de comunicação eficiente.
+Com eles a evolução do trabalho e as decisões tomadas são facilmente visualizadas por todos os membros de uma equipe.
 
-Office Like Code explora esses pilares que se complementam propondo uma aplicação prática que visa além do aumento de produtividade um acompanhamento mais transparente dos resultados. Abordaremos conceitos fundamentais, forneceremos exemplos e compartilharemos dicas valiosas para auxiliar a implementação deste novo conceito em qualquer tipo de organização.
+Office Like Code explora esses pilares que se complementam, propondo uma aplicação prática que visa, acima de tudo, o acompanhamento mais fluido das informações geradas por uma equipe.
+Abordaremos conceitos fundamentais, forneceremos exemplos e compartilharemos dicas valiosas para auxiliar a implementação deste novo conceito em qualquer tipo de organização.
 
-À medida que mergulhamos nesse novo universo de organização visando transparência e produtividade, é importante ter em mente que cada organização é única e que adaptar essas idéias para atender à necessidades específicas pode ser necessário.
+À medida que mergulhamos nesse novo universo de organização visando transparência e produtividade, é importante ter em mente que cada organização é única e que adaptar essas ideias para atender à necessidades específicas pode ser necessário.
 O objetivo deste manual não é fornecer soluções prontas, mas sim demonstrar a utilização de ferramentas e conhecimentos necessários para implementações de acordo com um determinado contexto.
 
 Prepare-se para uma jornada emocionante rumo a uma maior produtividade e transparência utilizando Office Like Code e as poderosas ferramentas sugeridas.
